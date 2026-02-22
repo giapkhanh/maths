@@ -12,14 +12,12 @@ $$L = - \sqrt{(x-2)^2 + (y+1)^2 + z^2} + 7 \sqrt{(x-3\sqrt{3})^2 + y^2 + (z+1)^2
 Hệ phương trình đạo hàm riêng (điểm dừng):
 
 $$
-\{ 
 \begin{cases}
 & -\frac{x - 2}{MA} + 7\frac{x - 3\sqrt{3}}{MB} + 2\lambda = 0 \\
 & -\frac{y + 1}{MA} + 7\frac{y}{MB} - \lambda = 0 \\
 & -\frac{z}{MA} + 7\frac{z + 1}{MB} + \lambda = 0 \\
 & 2x - y + z + 1 = 0
 \end{cases}
-\}
 $$
 
 Nhìn vào hệ đạo hàm Lagrange, đổi 3 phương trình đầu về dạng Vector sẽ là:
