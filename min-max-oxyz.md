@@ -3,8 +3,10 @@
 ---
 
 #### **Bước 1: Thiết lập hệ phương trình Lagrange**
+
 Xét hàm Lagrange cho bài toán tối ưu có ràng buộc:
 $$L = - \sqrt{(x-2)^2 + (y+1)^2 + z^2} + 7 \sqrt{(x-3\sqrt{3})^2 + y^2 + (z+1)^2} + \lambda(2x - y + z + 1)$$
+
 Hệ phương trình đạo hàm riêng (điểm dừng):
 
 $$
