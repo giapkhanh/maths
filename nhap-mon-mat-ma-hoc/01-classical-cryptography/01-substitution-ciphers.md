@@ -238,8 +238,6 @@ Ma trận này có phải là khóa hợp lệ không? Nếu có, hãy tìm $K^{
 
 3. Giả sử với mã Hill cấp $2 \times 2$, kẻ thù thu được cặp bản rõ - bản mã: `FR` $\to$ `PQ` và `ED` $\to$ `XZ`. Hãy khôi phục lại ma trận khóa bí mật $K$.
 
-```
-
 ---
 
 # FILE 06/44: `01-classical-cryptography/02-polyalphabetic-ciphers.md`
@@ -588,7 +586,7 @@ $$C_1 \oplus C_2 = (M_1 \oplus K) \oplus (M_2 \oplus K) = M_1 \oplus M_2$$
 │ 3. Dựa vào tính dư thừa ngôn ngữ (khoảng trắng XOR chữ cái tiếng Anh),   │
 │    thám mã có thể khôi phục lại cả M1 và M2 bằng kỹ thuật "Crib Dragging"│
 └─────────────────────────────────────────────────────────────────────────┘
-```
+
 
 ---
 
